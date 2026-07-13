@@ -1,5 +1,1 @@
-{
-    "version": "1.0.0",
-    "download_url": "https://github.com/GustavoTinelli/mycofree-releases/releases/download/v1.0.0/MyCofreeSetup-1.0.0.exe",
-    "release_notes": ""
-  }
+{"version":"1.5.0","download_url":"https://github.com/GustavoTinelli/mycofree-releases/releases/download/v1.5.0/MyCofreeSetup-1.5.0.exe","release_notes":"Atalhos de teclado (Ctrl+L/G/R, F5), divisao de rendimento configuravel e detalhe de parcelamento com linha do tempo."}
